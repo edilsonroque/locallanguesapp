@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "845099345835",
+    "project_id": "locallanguagesapp",
+    "storage_bucket": "locallanguagesapp.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:845099345835:android:353a3092fb4d5f1fd194ee",
+        "android_client_info": {
+          "package_name": "com.example.locallanguagesapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD-hPt-kjN7csW6fK5BMRdE8kwZbBEpgHs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
